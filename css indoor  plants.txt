@@ -1,0 +1,13 @@
+h1 {
+color:black;
+font-size:24px
+background-color:slategray;
+}
+p {
+color: black ;
+font-size:18px;
+background-color:#74966;
+}
+body , .plant { font-family:Arial,sans-serif;
+font-size:18px;
+}
