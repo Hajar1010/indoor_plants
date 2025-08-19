@@ -1,5 +1,5 @@
 # indoor_plants
-A simple HTML page showcasing a selection of beautiful indoor plants, including details like description, price, and images.
+A simple page showcasing a selection of beautiful indoor plants, including details like description, price, and images using HTML and CSS.
 
 ## Features
 
@@ -11,12 +11,12 @@ A simple HTML page showcasing a selection of beautiful indoor plants, including 
 ## How to view
 
 1. Clone or download this repository.
-2. Open the `index.html` file in any modern web browser.
+2. Open the `indoor_plants.html` file in any modern web browser.
 3. Explore the indoor plants page!
 
 ## Project Status
 
-This is a static HTML project with no CSS or JavaScript (yet). Future enhancements may include styling and interactivity.
+This is a static HTML project with CSS . Future enhancements may include styling and interactivity.
 
 always welcome for questions or feedback
 
